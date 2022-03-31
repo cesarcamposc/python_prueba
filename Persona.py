@@ -4,3 +4,6 @@ class Shape:
     
     def getArea(self): 
         pass
+
+class Rectangle(Shape):
+    pass
